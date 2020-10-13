@@ -9,7 +9,7 @@
     
 ## 1. Диаграмма прецедентов<a name="1"></a> 
 
-![Диаграмма прецедентов]()
+![Диаграмма прецедентов](https://github.com/LiL-Dicky/TaskMaster/blob/master/Диаграммы/Use%20case/UseCaseDiagram.png)
 
 
 ## 1.1 Актёры<a name="1.1"></a>
